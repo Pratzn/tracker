@@ -1,0 +1,8 @@
+{
+  "name": "Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "4677f1ea"
+}
